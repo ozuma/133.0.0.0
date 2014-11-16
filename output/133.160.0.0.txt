@@ -1,0 +1,39 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.160.0.0/16">133.160.0.0/16</A>
+b. [ネットワーク名]             FENICS
+f. [組織名]                     富士通株式会社
+g. [Organization]               Fujitsu Ltd.
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=YK13517JP">YK13517JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=KN6902JP">KN6902JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=TK13654JP">TK13654JP</A>
+p. [ネームサーバ]
+[割当年月日]                    1989/12/08
+[返却年月日]                    
+[最終更新]                      2009/11/30 18:02:04(JST)
+                                
+上位情報
+----------
+該当するデータがありません。
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

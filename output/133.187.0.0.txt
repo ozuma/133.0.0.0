@@ -1,0 +1,42 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.187.0.0/16">133.187.0.0/16</A>
+b. [ネットワーク名]             DENKEN-NET
+f. [組織名]                     一般財団法人電力中央研究所
+g. [Organization]               Central Research Institute of Electric Power Industry
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=AY7251JP">AY7251JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=JH682JP">JH682JP</A>
+p. [ネームサーバ]               sigw.sinet.ad.jp
+p. [ネームサーバ]               den0601.denken.or.jp
+p. [ネームサーバ]               dog0401.denken.or.jp
+p. [ネームサーバ]               dmvm341.denken.or.jp
+p. [ネームサーバ]               dmvs351.denken.or.jp
+[割当年月日]                    
+[返却年月日]                    
+[最終更新]                      2013/09/27 14:35:04(JST)
+                                
+上位情報
+----------
+該当するデータがありません。
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

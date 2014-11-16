@@ -1,0 +1,39 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.221.0.0/16">133.221.0.0/16</A>
+b. [ネットワーク名]             KONAMI-NET
+f. [組織名]                     コナミ株式会社
+g. [Organization]               KONAMI CORPORATION
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=JP00010375">JP00010375</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=JP00010375">JP00010375</A>
+p. [ネームサーバ]               mx1.konami.co.jp
+p. [ネームサーバ]               mx2.konami.co.jp
+[割当年月日]                    1991/08/29
+[返却年月日]                    
+[最終更新]                      2014/04/25 17:23:03(JST)
+                                
+上位情報
+----------
+該当するデータがありません。
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

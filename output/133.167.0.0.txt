@@ -1,0 +1,37 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+[IPネットワークアドレス]        <A HREF="./whois_gw?key=133.167.0.0/16">133.167.0.0/16</A>
+[ネットワーク名]                
+[組織名]                        さくらインターネット株式会社
+[Organization]                  SAKURA Internet Inc.
+[管理者連絡窓口]                <A HREF="./whois_gw?key=KT749JP">KT749JP</A>
+[技術連絡担当者]                <A HREF="./whois_gw?key=JP00072233">JP00072233</A>
+[Abuse]                         abuse@sakura.ad.jp
+[割振年月日]                    2013/05/09
+[最終更新]                      2013/05/09 11:01:00(JST)
+                                
+上位情報
+----------
+該当するデータがありません。
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

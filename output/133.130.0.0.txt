@@ -1,0 +1,40 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.130.0.0/23">133.130.0.0/23</A>
+b. [ネットワーク名]             APPCL-U12
+f. [組織名]                     ＧＭＯインターネット株式会社
+g. [Organization]               GMO Internet,Inc.
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=JP00080271">JP00080271</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=JP00080271">JP00080271</A>
+p. [ネームサーバ]               dns.interq.or.jp
+p. [ネームサーバ]               dns1.interq.or.jp
+[割当年月日]                    2013/05/24
+[返却年月日]                    
+[最終更新]                      2013/05/24 02:17:03(JST)
+                                
+上位情報
+----------
+ＧＭＯインターネット株式会社 (GMO Internet, Inc.)
+                     [割り振り]                                 <A HREF="./whois_gw?key=133.130.0.0/17">133.130.0.0/17</A>
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

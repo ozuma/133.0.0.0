@@ -1,0 +1,42 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.58.0.0/16">133.58.0.0/16</A>
+b. [ネットワーク名]             ISMNETS-JPN
+f. [組織名]                     情報・システム研究機構 統計数理研究所
+g. [Organization]               The Institute of Statistical Mathematics
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=YT007JP">YT007JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=YT007JP">YT007JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=NM005JP">NM005JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=KN109JP">KN109JP</A>
+p. [ネームサーバ]               sigw.sinet.ad.jp
+p. [ネームサーバ]               ns.ism.ac.jp
+p. [ネームサーバ]               ns1.ism.ac.jp
+[割当年月日]                    1990/03/15
+[返却年月日]                    
+[最終更新]                      2010/03/16 13:35:03(JST)
+                                
+上位情報
+----------
+該当するデータがありません。
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

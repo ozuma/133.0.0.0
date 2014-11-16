@@ -1,0 +1,40 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.18.0.0/24">133.18.0.0/24</A>
+b. [ネットワーク名]             KIR
+f. [組織名]                     カゴヤ・ジャパン株式会社
+g. [Organization]               KAGOYA JAPAN Inc.
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=SK1294JP">SK1294JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=JP00077427">JP00077427</A>
+p. [ネームサーバ]               ns0.kagoya.net
+p. [ネームサーバ]               ns1.kagoya.net
+[割当年月日]                    2013/03/26
+[返却年月日]                    
+[最終更新]                      2013/04/16 15:56:03(JST)
+                                
+上位情報
+----------
+カゴヤ・ジャパン株式会社 (Kagoya Japan Corporation)
+                     [割り振り]                                  <A HREF="./whois_gw?key=133.18.0.0/16">133.18.0.0/16</A>
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

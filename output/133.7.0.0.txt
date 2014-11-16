@@ -1,0 +1,45 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.7.0.0/16">133.7.0.0/16</A>
+b. [ネットワーク名]             FINES
+f. [組織名]                     国立大学法人 福井大学
+g. [Organization]               National University Corporation University Of Fukui
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=KT14941JP">KT14941JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=MT1650JP">MT1650JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=SS129JP">SS129JP</A>
+p. [ネームサーバ]               ***LAME***_ns.nca5.ad.jp_2012-06-29
+p. [ネームサーバ]               ***LAME***_onamae.m.cii.u-fukui.ac.jp_2014-04-30
+p. [ネームサーバ]               www-ns-e0.b.cii.u-fukui.ac.jp
+[備考]                          ***LAME***と表示されているネームサーバが適切に設定されていません。
+[備考]                          <A HREF="http://www.nic.ad.jp/ja/dns/lame/about.html">http://www.nic.ad.jp/ja/dns/lame/about.html</A> をご覧のうえ、このネームサーバの
+[備考]                          設定を再度ご確認ください。ネットワーク情報中で、一部の逆引きゾーンのみが
+[備考]                          適切に設定されていない場合にも***LAME***と表示されます。
+[割当年月日]                    
+[返却年月日]                    
+[最終更新]                      2012/05/16 00:41:04(JST)
+                                
+上位情報
+----------
+該当するデータがありません。
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

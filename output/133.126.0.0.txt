@@ -1,0 +1,27 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+該当するデータがありません。
+
+  参考：RIRのWHOISサーバ
+   ・<A HREF="http://www.apnic.net/apnic-bin/whois.pl">APNIC WHOIS(whois.apnic.net)</A>
+   ・<A HREF="http://whois.arin.net/">ARIN WHOIS(whois.arin.net)</A>
+   ・<A HREF="http://www.ripe.net/perl/whois">RIPE WHOIS(whois.ripe.net)</A>
+   ・<A HREF="http://lacnic.net/cgi-bin/lacnic/whois">LACNIC WHOIS(whois.lacnic.net)</A>
+   ・<A HREF="http://www.afrinic.net/index.php/en/services/whois-query">AfriNIC WHOIS(whois.afrinic.net)</A>
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

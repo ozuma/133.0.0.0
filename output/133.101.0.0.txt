@@ -1,0 +1,41 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.101.0.0/16">133.101.0.0/16</A>
+b. [ネットワーク名]             KING
+f. [組織名]                     京都産業大学
+g. [Organization]               Kyoto Sangyo University
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=NT3508JP">NT3508JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=KO110JP">KO110JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=YA2523JP">YA2523JP</A>
+p. [ネームサーバ]               ns.kyoto-su.ac.jp
+p. [ネームサーバ]               ns2.kyoto-su.ac.jp
+p. [ネームサーバ]               dns-x.sinet.ad.jp
+[割当年月日]                    
+[返却年月日]                    
+[最終更新]                      2014/11/12 16:53:06(JST)
+                                
+上位情報
+----------
+該当するデータがありません。
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

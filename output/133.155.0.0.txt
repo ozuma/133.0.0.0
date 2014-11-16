@@ -1,0 +1,42 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.155.0.0/24">133.155.0.0/24</A>
+b. [ネットワーク名]             MIRAI-NET
+f. [組織名]                     株式会社ミライコミュニケーションネットワーク
+g. [Organization]               Mirai Communication Network Inc.
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=MI114JP">MI114JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=MI114JP">MI114JP</A>
+p. [ネームサーバ]               ns.mirai.ad.jp
+p. [ネームサーバ]               ns2.mirai.ad.jp
+p. [ネームサーバ]               ns1.gao.ne.jp
+p. [ネームサーバ]               ns2.gao.ne.jp
+[割当年月日]                    2012/11/26
+[返却年月日]                    
+[最終更新]                      2012/12/10 09:59:03(JST)
+                                
+上位情報
+----------
+株式会社ミライコミュニケーションネットワーク (Mirai Communication Network Inc.)
+                     [割り振り]                                 <A HREF="./whois_gw?key=133.155.0.0/17">133.155.0.0/17</A>
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>

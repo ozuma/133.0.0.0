@@ -1,0 +1,42 @@
+
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<TITLE>JPNIC Whois Gateway</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information: [ネットワーク情報]
+a. [IPネットワークアドレス]     <A HREF="./whois_gw?key=133.62.0.0/16">133.62.0.0/16</A>
+b. [ネットワーク名]             YU-NET
+f. [組織名]                     山口大学
+g. [Organization]               Yamaguchi University
+m. [管理者連絡窓口]             <A HREF="./whois_gw?key=YH032JP">YH032JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=KN6733JP">KN6733JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=MS9077JP">MS9077JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=TM113JP">TM113JP</A>
+n. [技術連絡担当者]             <A HREF="./whois_gw?key=YH032JP">YH032JP</A>
+p. [ネームサーバ]               ns.cc.yamaguchi-u.ac.jp
+p. [ネームサーバ]               ns1.cc.yamaguchi-u.ac.jp
+[割当年月日]                    1990/05/28
+[返却年月日]                    
+[最終更新]                      2005/08/22 11:21:22(JST)
+                                
+上位情報
+----------
+該当するデータがありません。
+
+下位情報
+----------
+該当するデータがありません。
+
+</PRE>
+<HR>
+<A HREF="./whois_gw">Back to Whois Gateway top menu</A>
+</BODY>
+</HTML>
